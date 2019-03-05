@@ -5,7 +5,7 @@
             <input type="submit" name="submit" value="Tres En Raya" style="width: 40%; height: 100px; font-size: 2em;">
         </form>
         <br> <br>
-        <form action="camaraSecreta.php" method="POST">
+        <form action="camarasecreta.php" method="POST">
             <input type="submit" name="submit" value="Camara Secreta" style="width: 40%; height: 100px; font-size: 2em;">
         </form>
         <br> <br>
