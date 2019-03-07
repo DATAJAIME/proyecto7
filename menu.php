@@ -12,6 +12,10 @@
         <form action="fraseinvertida.php" method="POST">
             <input type="submit" name="submit" value="Frase Invertida" style="width: 40%; height: 100px; font-size: 2em;">
         </form>
+        <br> <br>
+        <form action="snake.php" method="POST">
+            <input type="submit" name="submit" value="Snake" style="width: 40%; height: 100px; font-size: 2em;">
+        </form>
         <br> <br> <br>
         Sergio Nebreda Andrés
         <br> <br>
